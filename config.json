@@ -1,0 +1,7 @@
+{
+    "exe_paths_to_monitor": [
+        "D:/MetaTrader5SDK/Examples/Manager/mt5-rule-checker/x64/Release/Mt5 Rule Checker.exe"
+    ],
+    "cpu_threshold": 80,
+    "ram_threshold": 500
+}
